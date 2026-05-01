@@ -1,0 +1,91 @@
+Trastuzumab Fab — Biophysical Liability Analysis
+PDB: 1N8Z  |  Chains: A, B
+============================================================
+
+CDR LIABILITIES (highest concern — paratope-adjacent)
+------------------------------------------------------------
+  CDR-H2   Chain A  PHE53    SASA=  47.8  [AGG]
+  CDR-H2   Chain A  LEU54    SASA=  69.5  [AGG]
+  CDR-H2   Chain A  VAL58    SASA=  20.6  [AGG]
+  CDR-H2   Chain A  PRO59    SASA=  59.6  [AGG]
+  CDR-H3   Chain A  PRO95    SASA=  27.7  [AGG]
+  CDR-H3   Chain A  PHE98    SASA=  25.9  [AGG]
+  CDR-L1   Chain B  PHE27    SASA=  29.3  [AGG]
+  CDR-L2   Chain B  ASN55    SASA=  76.8  [DEAM]
+  CDR-L3   Chain B  VAL93    SASA=  40.5  [AGG]
+
+AGGREGATION HOTSPOTS — surface-exposed hydrophobic (62)
+------------------------------------------------------------
+  Chain A  PRO8     SASA=  54.4  (framework)
+  Chain A  LEU11    SASA=  29.3  (framework)
+  Chain A  VAL15    SASA=  82.6  (framework)
+  Chain A  PRO40    SASA=  60.1  (framework)
+  Chain A  PHE53    SASA=  47.8  (CDR-H2)
+  Chain A  LEU54    SASA=  69.5  (CDR-H2)
+  Chain A  VAL58    SASA=  20.6  (CDR-H2)
+  Chain A  PRO59    SASA=  59.6  (CDR-H2)
+  Chain A  PRO80    SASA=  27.3  (framework)
+  Chain A  PRO95    SASA=  27.7  (CDR-H3)
+  Chain A  PHE98    SASA=  25.9  (CDR-H3)
+  Chain A  VAL110   SASA=  82.6  (framework)
+  Chain A  ALA112   SASA=  54.3  (framework)
+  Chain A  PRO119   SASA=  41.0  (framework)
+  Chain A  LEU125   SASA=  29.0  (framework)
+  Chain A  PRO141   SASA=  33.1  (framework)
+  Chain A  VAL146   SASA=  22.4  (framework)
+  Chain A  ALA153   SASA=  52.5  (framework)
+  Chain A  LEU154   SASA= 113.4  (framework)
+  Chain A  VAL163   SASA=  24.3  (framework)
+  Chain A  LEU181   SASA=  20.6  (framework)
+  Chain A  ALA184   SASA=  72.2  (framework)
+  Chain A  VAL191   SASA=  46.7  (framework)
+  Chain A  LEU201   SASA=  36.3  (framework)
+  Chain A  PRO204   SASA=  63.3  (framework)
+  Chain A  VAL205   SASA=  45.4  (framework)
+  Chain A  CYS214   SASA= 167.8  (framework)
+  Chain B  VAL2     SASA=  26.0  (framework)
+  Chain B  VAL5     SASA=  67.4  (framework)
+  Chain B  LEU11    SASA=  49.0  (framework)
+  Chain B  PRO14    SASA=  61.8  (framework)
+  Chain B  LEU18    SASA=  39.1  (framework)
+  Chain B  ALA23    SASA=  40.3  (framework)
+  Chain B  PHE27    SASA=  29.3  (CDR-L1)
+  Chain B  ALA40    SASA=  32.0  (framework)
+  Chain B  PRO41    SASA=  92.7  (framework)
+  Chain B  ALA72    SASA=  33.8  (framework)
+  Chain B  ALA88    SASA=  73.9  (framework)
+  Chain B  VAL93    SASA=  40.5  (CDR-L3)
+  Chain B  PHE104   SASA=  33.4  (framework)
+  Chain B  TRP110   SASA=  25.7  (framework)
+  Chain B  LEU115   SASA=  30.4  (framework)
+  Chain B  ALA121   SASA=  51.7  (framework)
+  Chain B  PRO130   SASA=  25.6  (framework)
+  Chain B  ALA132   SASA=  34.2  (framework)
+  Chain B  PHE153   SASA=  20.1  (framework)
+  Chain B  PRO156   SASA=  64.8  (framework)
+  Chain B  VAL159   SASA=  22.3  (framework)
+  Chain B  ALA165   SASA=  93.1  (framework)
+  Chain B  LEU166   SASA=  34.2  (framework)
+  Chain B  VAL170   SASA=  38.9  (framework)
+  Chain B  PRO174   SASA=  66.3  (framework)
+  Chain B  ALA175   SASA=  28.8  (framework)
+  Chain B  VAL176   SASA=  28.0  (framework)
+  Chain B  LEU177   SASA= 104.0  (framework)
+  Chain B  LEU182   SASA=  29.6  (framework)
+  Chain B  PRO192   SASA=  76.1  (framework)
+  Chain B  LEU196   SASA=  42.5  (framework)
+  Chain B  ILE202   SASA=  55.2  (framework)
+  Chain B  PRO209   SASA=  35.3  (framework)
+  Chain B  VAL214   SASA=  38.2  (framework)
+  Chain B  PRO220   SASA= 120.3  (framework)
+
+DEAMIDATION SITES — exposed N-G or N-S (4)
+------------------------------------------------------------
+  Chain A  ASN158  -> SER  SASA=  33.2  (framework)
+  Chain B  ASN55   -> GLY  SASA=  76.8  (CDR-L2)
+  Chain B  ASN84   -> SER  SASA=  56.7  (framework)
+  Chain B  ASN162  -> SER  SASA=  36.1  (framework)
+
+OXIDATION SITES — exposed Met or Trp (1)
+------------------------------------------------------------
+  Chain B  TRP110   SASA=  25.7  (framework)
