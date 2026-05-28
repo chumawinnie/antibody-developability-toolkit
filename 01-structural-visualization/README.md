@@ -3,7 +3,7 @@
 Structural visualization of the therapeutic antibody **trastuzumab** (Herceptin) bound to the extracellular domain of its target, the **HER2 receptor**, using PyMOL.
 
 ## Background
-Trastuzumab is a monoclonal antibody used to treat HER2-positive breast cancer. This visualization highlights the CDR-H3 loop of the antibody heavy chain — the variable region most directly responsible for antigen recognition and a known hotspot for biopharmaceutical liabilities such as aggregation propensity and chemical degradation.
+Trastuzumab is a monoclonal antibody used to treat HER2-positive breast cancer. This visualization highlights the CDR-H3 loop of the antibody heavy chain  the variable region most directly responsible for antigen recognition and a known hotspot for biopharmaceutical liabilities such as aggregation propensity and chemical degradation.
 
 ## Source
 - PDB ID: 1N8Z
