@@ -55,4 +55,4 @@ Natural extensions: integration of multiple antibodies into a feature matrix, tr
 
 ## Author
 
-Chukwuma Winner Obiora - bioinformatics scientist with a biochemistry background, exploring the application of computational pipeline engineering and machine learning to biopharmaceutical formulation development.
+Chukwuma Winner Obiora - Bioinformatics scientist with a biochemistry background, exploring the application of computational pipeline engineering and machine learning to biopharmaceutical formulation development.
